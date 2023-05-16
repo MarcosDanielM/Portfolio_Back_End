@@ -1,4 +1,4 @@
-FROM amazoncorretto:1.8
+FROM amazoncorretto:8
 
 MAINTAINER Marcos Daniel Martinez
 
