@@ -1,6 +1,6 @@
 FROM amazoncorretto:8
 
-MAINTAINER Marcos Daniel Martinez
+MAINTAINER MarcosDanielM
 
 COPY target/mdm-0.0.1-SNAPSHOT.jar mdm-0.0.1-SNAPSHOT.jar
 
